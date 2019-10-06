@@ -4,6 +4,7 @@ image = img.generate_image('ae34bv')
 image.show()
 image.save('D:/Captcha/new_Captcha.png')"""
 # OLD CODE - NEW CAPTCHAs TAKEN FROM SITE Recc.
+# THIS CAPTCHA is full of noise.
 import sys
 import os 
 import random 
