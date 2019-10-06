@@ -3,7 +3,7 @@ img = ImageCaptcha()
 image = img.generate_image('ae34bv')
 image.show()
 image.save('D:/Captcha/new_Captcha.png')"""
-
+# OLD CODE - NEW CAPTCHAs TAKEN FROM SITE Recc.
 import sys
 import os 
 import random 
